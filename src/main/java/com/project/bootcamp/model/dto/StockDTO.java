@@ -10,7 +10,7 @@ import java.time.LocalDate;
 public class StockDTO {
 
     private Long id;
-jones
+
     @NotNull
     private String name;
 
